@@ -19,3 +19,6 @@ Eğer kullanıcının bir hesabı yoksa Hesap Oluştur yazısına tıklayarak a�
 ![Picture3](https://github.com/user-attachments/assets/d79837fa-1310-428a-973f-b08d265e5fd1)
 
 Kullanıcı sisteme giriş yaptıktan sonra karşısına çıkan pencerede ilgili tarihe görevlerini ekleyebilir bu görevleri düzenleyebilir, silebilir ve görevlerine öncelik atayabilir. Eğer gün içinde yapacağı görevini tamamlarsa Görev Tamamlandı butonuna basarak görevini tamamlanmış olarak işaretleyebilir.
+
+### Bu proje, sadece portföy amacıyla ve ticari bir amaç gütmeden paylaşılmaktadır.
+### This project is shared solely for portfolio purposes and without any commercial intent.
