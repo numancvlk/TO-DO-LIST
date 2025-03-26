@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nmncv\\Downloads\\To_Do_List-20250326T151254Z-001\\To_Do_List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B775C2D2-FB41-41E7-844E-B4350B31477E}|To_Do_List\\To_Do_List.csproj|C:\\Users\\nmncv\\Downloads\\To_Do_List-20250326T151254Z-001\\To_Do_List\\to_do_list\\formlar\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B775C2D2-FB41-41E7-844E-B4350B31477E}|To_Do_List\\To_Do_List.csproj|solutionrelative:to_do_list\\formlar\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B775C2D2-FB41-41E7-844E-B4350B31477E}|To_Do_List\\To_Do_List.csproj|c:\\users\\nmncv\\downloads\\to_do_list-20250326t151254z-001\\to_do_list\\to_do_list\\formlar\\hesapolu\u015Fturmaformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B775C2D2-FB41-41E7-844E-B4350B31477E}|To_Do_List\\To_Do_List.csproj|solutionrelative:to_do_list\\formlar\\hesapolu\u015Fturmaformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B775C2D2-FB41-41E7-844E-B4350B31477E}|To_Do_List\\To_Do_List.csproj|C:\\Users\\nmncv\\Downloads\\To_Do_List-20250326T151254Z-001\\To_Do_List\\to_do_list\\formlar\\girisformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B775C2D2-FB41-41E7-844E-B4350B31477E}|To_Do_List\\To_Do_List.csproj|solutionrelative:to_do_list\\formlar\\girisformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B775C2D2-FB41-41E7-844E-B4350B31477E}|To_Do_List\\To_Do_List.csproj|C:\\Users\\nmncv\\Downloads\\To_Do_List-20250326T151254Z-001\\To_Do_List\\to_do_list\\formlar\\hesapolu\u015Fturmaformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B775C2D2-FB41-41E7-844E-B4350B31477E}|To_Do_List\\To_Do_List.csproj|solutionrelative:to_do_list\\formlar\\hesapolu\u015Fturmaformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B775C2D2-FB41-41E7-844E-B4350B31477E}|To_Do_List\\To_Do_List.csproj|C:\\Users\\nmncv\\Downloads\\To_Do_List-20250326T151254Z-001\\To_Do_List\\to_do_list\\formlar\\girisformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B775C2D2-FB41-41E7-844E-B4350B31477E}|To_Do_List\\To_Do_List.csproj|solutionrelative:to_do_list\\formlar\\girisformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B775C2D2-FB41-41E7-844E-B4350B31477E}|To_Do_List\\To_Do_List.csproj|C:\\Users\\nmncv\\Downloads\\To_Do_List-20250326T151254Z-001\\To_Do_List\\to_do_list\\formlar\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B775C2D2-FB41-41E7-844E-B4350B31477E}|To_Do_List\\To_Do_List.csproj|solutionrelative:to_do_list\\formlar\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoList.cs",
+              "DocumentMoniker": "C:\\Users\\nmncv\\Downloads\\To_Do_List-20250326T151254Z-001\\To_Do_List\\To_Do_List\\Formlar\\ToDoList.cs",
+              "RelativeDocumentMoniker": "To_Do_List\\Formlar\\ToDoList.cs",
+              "ToolTip": "C:\\Users\\nmncv\\Downloads\\To_Do_List-20250326T151254Z-001\\To_Do_List\\To_Do_List\\Formlar\\ToDoList.cs",
+              "RelativeToolTip": "To_Do_List\\Formlar\\ToDoList.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAiwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T13:25:42.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToDoList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nmncv\\Downloads\\To_Do_List-20250326T151254Z-001\\To_Do_List\\To_Do_List\\Formlar\\ToDoList.cs",
+              "RelativeDocumentMoniker": "To_Do_List\\Formlar\\ToDoList.cs",
+              "ToolTip": "C:\\Users\\nmncv\\Downloads\\To_Do_List-20250326T151254Z-001\\To_Do_List\\To_Do_List\\Formlar\\ToDoList.cs [Design]",
+              "RelativeToolTip": "To_Do_List\\Formlar\\ToDoList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:01:34.073Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HesapOlu\u015FturmaFormu.cs",
+              "DocumentMoniker": "C:\\Users\\nmncv\\Downloads\\To_Do_List-20250326T151254Z-001\\To_Do_List\\To_Do_List\\Formlar\\HesapOlu\u015FturmaFormu.cs",
+              "RelativeDocumentMoniker": "To_Do_List\\Formlar\\HesapOlu\u015FturmaFormu.cs",
+              "ToolTip": "C:\\Users\\nmncv\\Downloads\\To_Do_List-20250326T151254Z-001\\To_Do_List\\To_Do_List\\Formlar\\HesapOlu\u015FturmaFormu.cs",
+              "RelativeToolTip": "To_Do_List\\Formlar\\HesapOlu\u015FturmaFormu.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T13:25:44.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HesapOlu\u015FturmaFormu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nmncv\\Downloads\\To_Do_List-20250326T151254Z-001\\To_Do_List\\To_Do_List\\Formlar\\HesapOlu\u015FturmaFormu.cs",
+              "RelativeDocumentMoniker": "To_Do_List\\Formlar\\HesapOlu\u015FturmaFormu.cs",
+              "ToolTip": "D:\\PROJELER\\To_Do_List\\To_Do_List\\Formlar\\HesapOlu\u015FturmaFormu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T13:14:10.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GirisFormu.cs",
+              "DocumentMoniker": "C:\\Users\\nmncv\\Downloads\\To_Do_List-20250326T151254Z-001\\To_Do_List\\To_Do_List\\Formlar\\GirisFormu.cs",
+              "RelativeDocumentMoniker": "To_Do_List\\Formlar\\GirisFormu.cs",
+              "ToolTip": "C:\\Users\\nmncv\\Downloads\\To_Do_List-20250326T151254Z-001\\To_Do_List\\To_Do_List\\Formlar\\GirisFormu.cs",
+              "RelativeToolTip": "To_Do_List\\Formlar\\GirisFormu.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T13:25:47.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GirisFormu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nmncv\\Downloads\\To_Do_List-20250326T151254Z-001\\To_Do_List\\To_Do_List\\Formlar\\GirisFormu.cs",
+              "RelativeDocumentMoniker": "To_Do_List\\Formlar\\GirisFormu.cs",
+              "ToolTip": "D:\\PROJELER\\To_Do_List\\To_Do_List\\Formlar\\GirisFormu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T13:14:05.186Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
